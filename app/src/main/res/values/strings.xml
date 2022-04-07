@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ProjectUAS</string>
+    <string-array name="category">
+        <item>No Category</item>
+        <item>Pendapatan</item>
+        <item>Pendapatan Sewa</item>
+        <item>Pendapatan Royalti</item>
+        <item>Laba Penjualan</item>
+        <item>Pengeluaran tetap</item>
+        <item>Pengeluaran tidak tetap</item>
+        <item>Belanja</item>
+        <item>Denda</item>
+        <item>Hiburan</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
